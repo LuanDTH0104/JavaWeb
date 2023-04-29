@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#login {
+    margin-top: 7vh;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+    height: 6vh;
+}
+
+#register {
+    margin-top: 7vh;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-left: 10px;
+    height: 6vh;
+}
+
+#avatar {
+    border-radius: 50%;
+    width: 2vw;
+    height: auto;
+}
+
+.top-bar {
+    background-color: #F7452F;
+    height: 18vh;
+}
+
+.Bopppe {
+    width: 25vw;
+    height: auto;
+}
+
+#customer-name{
+    text-align: center;
+    margin-top: 4vh;
+}
+
+#avatar {
+    border-radius: 50%;
+    width: 2vw;
+    height: auto;
+}
+
+#logo {
+    width: 40%;
+    height: auto;
+    margin-left: 20%;
+}
+
+#search-bar{
+    margin-top: 7vh;
+}
+
+#submit-btn{
+    margin-top: 7vh;
+}
+
+.search-bar input{
+    margin-top: 4%;
+    width: 50%;
+    height: 50%;
+}
+
+.search-bar button {
+    margin-top: 4%;
+    width: 75px;
+    height: 10%;
+    background-color: #198754;
+    color: white;
+}
+
+/*        #cart-container {
+            height: auto;
+            width: 10vw;
+        }*/
+
+#cart {
+    margin-top: 5vh;
+    width: 5vw;
+    height: auto;
+    margin-left: 20%;
+}
+
+.hrf {
+    margin-top: 3%;
+    border: white 1px solid;
+    border-radius: 8px;
+    width: 7vw;
+    height: 10%;
+    padding: 15px;
+    margin-right: 20px;
+}
+
+.hrf a{
+    color: white;
+    text-decoration: none
+}
+
+
+.banner {
+    margin-top: 3vh;
+}
+
+
+
+#left-banner-img {
+    position: relative;
+    height: 40vh;
+    width: auto;
+}
+
+.right-banner-img {
+    margin-left: 5px;
+    position: absolute;
+    height: 19.5vh;
+    width: auto;
+}
+
+#bottom-right-img {
+    margin-top: 20.5vh;
+}
+
+
+.part {
+    margin-top: 5vh;
+    height: auto;
+    width: 100%;
+
+}
+
+.list {
+    display: flex;
+}
+
+.list td {
+    text-align: center;
+}
+
+.list-items div:hover {
+    color: red;
+}
+
+.category-item  {
+    border: 1px #F4F4F4 solid;
+}
+
+
+.categories-img {
+    width: 20vw;
+    height: 20vh;
+}
